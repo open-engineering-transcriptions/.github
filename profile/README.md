@@ -8,7 +8,7 @@ Open Engineering Transcriptions is the home of transcription technologies within
 
 Rather than focusing on a particular speech-to-text product or AI vendor, this organization defines the concepts, interfaces, conventions, and implementations that allow any transcription engine to participate in Open Engineering.
 
-Mission
+## Mission
 
 People communicate naturally.
 
@@ -19,7 +19,7 @@ Open Engineering Transcriptions bridges that gap.
 Its mission is to transform conversations, meetings, interviews, brainstorming sessions, rehearsals, observations, and voice commands into reusable engineering elements while preserving context, provenance, and traceability.
 
 Position within the Open Engineering Ecosystem
-
+```
 Human Communication
         │
         ├── Speech
@@ -57,7 +57,7 @@ Engineering Elements
         ├── Timelines
         ├── Character Dialogue
         └── Documentation
-
+```
 What this organization is
 
 Open Engineering Transcriptions is responsible for:
@@ -84,8 +84,8 @@ This organization is not responsible for:
 
 Those responsibilities belong to other Open Engineering organizations.
 
-Relationship to other organizations
-
+## Relationship to other organizations
+```
 Organization	Responsibility
 Open Engineering Transcriptions	Human communication → engineering elements
 Open Engineering Flows	Orchestrates transcription within workflows
@@ -95,7 +95,7 @@ Open Engineering Memories	Stores transcripts as durable knowledge
 Open Engineering Stories	Turns transcripts into narratives
 Open Engineering Breakdowns	Extracts production assets from transcripts
 Open Engineering Characters	Produces and consumes spoken dialogue
-
+```
 Provider-independent architecture
 
 Open Engineering Transcriptions deliberately separates engineering concepts from vendor implementations.
@@ -118,7 +118,7 @@ These are implementations—not the architecture.
 The engineering interfaces remain stable regardless of which provider is used.
 
 Typical processing pipeline
-
+```
 Human Communication
         │
         ▼
@@ -135,8 +135,8 @@ Engineering Element
         │
         ▼
 Markdown / YAML / JSON
-
-Design principles
+```
+## Design principles
 
 Open Engineering Transcriptions follows the broader Open Engineering philosophy.
 
@@ -147,7 +147,7 @@ Open Engineering Transcriptions follows the broader Open Engineering philosophy.
 * Metadata-first — produces machine-readable outputs suitable for automation.
 * Open by Design — encourages reusable interfaces and portable data formats.
 
-Example applications
+## Example applications
 
 The same transcription capability can support many engineering scenarios:
 
@@ -166,7 +166,7 @@ The same transcription capability can support many engineering scenarios:
 
 Each begins as human communication and becomes structured engineering knowledge.
 
-Vision
+## Vision
 
 Open Engineering Transcriptions establishes a common foundation for transforming human communication into reusable engineering elements.
 
