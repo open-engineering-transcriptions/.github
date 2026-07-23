@@ -2,6 +2,8 @@
 
 Transforming human communication into reusable engineering elements.
 
+![Open Engineering Transcriptions hero-banner.png](../assets/hero-banner.ong)
+
 Open Engineering Transcriptions is the home of transcription technologies within the Open Engineering ecosystem. It provides a provider-independent abstraction for converting spoken and written human communication into structured engineering artifacts that can be consumed throughout the ecosystem.
 
 Rather than focusing on a particular speech-to-text product or AI vendor, this organization defines the concepts, interfaces, conventions, and implementations that allow any transcription engine to participate in Open Engineering.
